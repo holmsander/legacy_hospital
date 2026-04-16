@@ -1,3 +1,5 @@
+Diagnose code mapping: ICP-11 standard (https://icdapihome2-eme0b9bdf4fafkbg.northeurope-01.azurewebsites.net/icdapi/)
+
 Projects involve applications of RAG and MCP.
 RAG for semantic word to diagnose code matching, MCP as bridge between chat interface and backend.
 This is a simulation of how a messy back end soultion for some hospital could be integrated into modern technology.
